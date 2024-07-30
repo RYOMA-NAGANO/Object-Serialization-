@@ -15,3 +15,5 @@ We will earning how to store an object consistently, namely Data Persistence. Us
 
 3:  Simulate a scene, store the objects, close the program, restart and load, requiring consistency between the stored and loaded objects
 
+After comparing two serialization methods(dill,pickle), we have found out that dill is extended pickle package such that str in python will be the same but their time usage will be different, dill takes longer than pickle.
+
