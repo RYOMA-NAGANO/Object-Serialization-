@@ -7,7 +7,7 @@ What is Data Persistence?
 
 The process of data persistence is to write data to a persistent device (such as a hard drive). After the system restarts, these data will not be lost and can still be read from persistent devices.
 
-We will earning how to store an object consistently, namely Data Persistence. Using python and by ways of serialization and deserialization to achieve goals. Separating tasks into steps:
+We will learning how to store an object consistently, namely Data Persistence. Using python and by ways of serialization and deserialization to achieve goals. Separating tasks into steps:
 
 1:  Define an object Object whose class object content format is singleton mode
 
